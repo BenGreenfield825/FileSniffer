@@ -1,0 +1,144 @@
+
+---------------------------------------------------------------
+	Ben Greenfield
+	CSCI 4547/6647
+	Sun Mar  6 2022	19:14:17
+---------------------------------------------------------------
+Start at: /home/ben/SniffTree
+Output file name: output.txt
+Verbose: no
+Case sensitive: no
+Search word: file
+---------------------------------------------------------------
+Path: /home/ben/SniffTree
+Path: /home/ben/SniffTree/sub1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2
+Path: /home/ben/SniffTree/sub2/sub2-1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2/sub2-2
+Path: /home/ben/SniffTree/sub2/sub2-2/sub3
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+
+Files that contained search words:
+---------------------------------------------------------------
+iNode number: 2561	 Path: /home/ben/SniffTree/toBeLinkedTo2-2.txt
+Words found: file, 
+---------------------------------------------------------------
+iNode number: 2561	 Path: /home/ben/SniffTree/linkTo2-1.txt
+Words found: file, 
+
+
+---------------------------------------------------------------
+	Ben Greenfield
+	CSCI 4547/6647
+	Sun Mar  6 2022	19:14:27
+---------------------------------------------------------------
+Start at: /home/ben/SniffTree
+Output file name: output.txt
+Verbose: no
+Case sensitive: no
+Search word: hello howdy
+---------------------------------------------------------------
+Path: /home/ben/SniffTree
+Path: /home/ben/SniffTree/sub1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2
+Path: /home/ben/SniffTree/sub2/sub2-1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2/sub2-2
+Path: /home/ben/SniffTree/sub2/sub2-2/sub3
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+
+Files that contained search words:
+---------------------------------------------------------------
+iNode number: 2136	 Path: /home/ben/SniffTree/text.txt
+Words found: hello, 
+---------------------------------------------------------------
+iNode number: 2272	 Path: /home/ben/SniffTree/sub1text.txt
+Words found: howdy, hello, 
+---------------------------------------------------------------
+iNode number: 2430	 Path: /home/ben/SniffTree/sub1text2.txt
+Words found: hello, 
+---------------------------------------------------------------
+iNode number: 2553	 Path: /home/ben/SniffTree/sub2-1text.txt
+Words found: howdy, 
+---------------------------------------------------------------
+iNode number: 2478	 Path: /home/ben/SniffTree/sub3text.txt
+Words found: hello, 
+---------------------------------------------------------------
+iNode number: 2465	 Path: /home/ben/SniffTree/sub2-2text.txt
+Words found: hello, 
+---------------------------------------------------------------
+iNode number: 2419	 Path: /home/ben/SniffTree/sub2text.txt
+Words found: hello, 
+
+
+---------------------------------------------------------------
+	Ben Greenfield
+	CSCI 4547/6647
+	Sun Mar  6 2022	19:15:40
+---------------------------------------------------------------
+Start at: /home/ben/SniffTree
+Output file name: output.txt
+Verbose: no
+Case sensitive: no
+Search word: upper
+---------------------------------------------------------------
+Path: /home/ben/SniffTree
+Path: /home/ben/SniffTree/sub1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2
+Path: /home/ben/SniffTree/sub2/sub2-1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2/sub2-2
+Path: /home/ben/SniffTree/sub2/sub2-2/sub3
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+
+Files that contained search words:
+---------------------------------------------------------------
+iNode number: 2604	 Path: /home/ben/SniffTree/sub3text2.txt
+Words found: UPPER, 
+---------------------------------------------------------------
+iNode number: 2609	 Path: /home/ben/SniffTree/sub3text.txt
+Words found: upper, 
+
+
+---------------------------------------------------------------
+	Ben Greenfield
+	CSCI 4547/6647
+	Sun Mar  6 2022	19:15:49
+---------------------------------------------------------------
+Start at: /home/ben/SniffTree
+Output file name: output.txt
+Verbose: no
+Case sensitive: yes
+Search word: upper
+---------------------------------------------------------------
+Path: /home/ben/SniffTree
+Path: /home/ben/SniffTree/sub1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2
+Path: /home/ben/SniffTree/sub2/sub2-1
+Finished searching directory!
+Path: /home/ben/SniffTree/sub2/sub2-2
+Path: /home/ben/SniffTree/sub2/sub2-2/sub3
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+Finished searching directory!
+
+Files that contained search words:
+---------------------------------------------------------------
+iNode number: 2609	 Path: /home/ben/SniffTree/sub3text.txt
+Words found: upper, 
+
